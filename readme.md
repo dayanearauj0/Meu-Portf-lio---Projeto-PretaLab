@@ -1,6 +1,6 @@
-#Criação do meu portifólio - Projeto PretaLab#
+# Criação do meu portifólio - Projeto PretaLab
 
-##passo à passo##
+## Passo à passo
     Passo 1 - Criar pasta 'aula-2' e abrir no Vscode
     Passo 2 - Criar arquivo index.html
     Passo 3 - Digitar '!' e clicar em 'enter'
@@ -10,7 +10,9 @@
     Passo 6 - Dentro do <head> adicionar a tag 
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css&quot; integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css&quot; 
+    integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" 
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     Passo 7 -  Buscar um ícone em https://fontawesome.com/icons , copiar o código e colar dentro do <body>
     Passo 8 - Inserir sua rede social na tag <a> e adicionar os atributos href e target
@@ -21,7 +23,9 @@
     Passo 13 - Adicionar tag <input>  e uma tag <label> para esse input.
    
 
-#ferramentas#
-HTML e CSS
+# Ferramentas:
+HTML 
+CSS
 
-#Aula ministrada por:#
+# Aula ministrada por:
+Amanda Gregório & Larissa Saraiva
